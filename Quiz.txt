@@ -1,0 +1,60 @@
+Wireshark for Basic Network Security Analysis Quiz
+---------------------------------------------------
+Question 1
+Wireshark can be used for:
+A: Only Analyzing Network Traffic that have been captured before
+B: Only Capturing Network Traffic happening now
+C: Both Capturing and Analyzing Traffic
+
+Answer: C
+
+Question 2
+We can always see the password sent in a RADIUS Packet?
+A: True
+B: False
+
+Answer: B
+
+Question 3
+Which type of Filters must be set before starting the Packet Capture?
+A: Display Filters
+B: Capture Filters
+
+Answer: B
+
+Question 4
+Is DNS Traffic encrypted?
+A: True
+B: False
+
+Answer: B
+
+Question 5
+Form based authentication is more secure than basic authentication when used with insecure HTTP
+A: True
+B: False
+
+Answer: B
+
+Question 6
+When typing commands to a remote machine using telnet, the following TCP flag is always set to ensure timely transmission of the keystrokes.
+A: Urgent (URG)
+B: Push (PSH)
+C: Reset (RST)
+
+Answer: B
+
+Question 7
+What security protocol do HTTPS and SSH use to secure the communication of their cleartext counterparts HTTP and telnet?
+A: SSL
+B: TLS
+
+Answer: B
+
+Question 8
+We can give the following key to wireshark to decrypt an HTTPS session
+A: Pre-master secret key
+B: Shared Secret
+C: Private Key
+
+Answer: A
